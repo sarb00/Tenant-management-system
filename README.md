@@ -1,5 +1,7 @@
 # Tenant-management-system
 
+
+# it is python GUI and Database based software
 # this software helps to manage the tenants which contains all information about tenants and thier dues 
 # this software contain GUI window(screen) and backend database to save and fetch the information 
 # it is fully functional software 
