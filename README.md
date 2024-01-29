@@ -27,7 +27,7 @@ confirmation on exit and delete actions
 edit button to edit details of existed tenant
 ![Screenshot (16)](https://github.com/sarb00/Tenant-management-system/assets/156324059/71f7ee95-de82-4d46-bc34-e40094c82a3a)
 
-go on more detail window after clicking on get more details button which contain extra information of selected tenant here you get the information about their dues and previous dues and rent will be clear here on rent clearing portal by entring amount on entrybox and clicking paid button
+go on more detail window after clicking on get more details button which contain extra information of selected tenant here you get the information about their dues and previous dues and rent will be clear here on rent clearing portal by entring amount on entrybox and clicking paid button and go back button is here also to go back on main window
 ![Screenshot (15)](https://github.com/sarb00/Tenant-management-system/assets/156324059/32d740b7-68cb-4218-9cdf-4276d52314ed)
 
 
